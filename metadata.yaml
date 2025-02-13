@@ -1,2 +1,5 @@
 homepage: "https://www.lunio.ai/"
 documentation: "https://github.com/luniohq/gtm-template"
+versions:
+  - sha: 3987f928747bfb425f1680be1b00bfff84f0a679
+    changeNotes: Initial release.
